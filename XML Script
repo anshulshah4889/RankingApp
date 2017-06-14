@@ -1,0 +1,6 @@
+<LinearLayout>
+  <TextView
+    android:text="Have a Nice Day"
+    android:layout_width="100dp"
+    android:layout_height="100dp/>
+</LinearLayout>
